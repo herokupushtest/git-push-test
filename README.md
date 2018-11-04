@@ -1,5 +1,7 @@
 # git-push-test
 
+To run:
 
+1 - gulp sass
 
-vsvdvsds
+2 - python -m http.server
